@@ -1,1 +1,1 @@
-# Safe-Password-Generate-Pro-App-Support
+# Strong-Password-Generate-Pro-App-Support
