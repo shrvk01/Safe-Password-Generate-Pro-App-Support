@@ -22,6 +22,10 @@ h1 {
     font-size: 5rem;
 }
 
+h2 {
+	margin: 0;
+}
+
 input[type=checkbox] {
 	margin-right: 0;
 }
@@ -187,6 +191,7 @@ input[type="number"]::-webkit-inner-spin-button {
 .redirect {
 	text-decoration: none;
 	color: white;
+	margin: 0;
   }
   
   .redirect:hover {
